@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="ERT1.gr" tvg-logo="https://i.imgur.com/slE8U5m.png",ERT1 HD
+http://cbd537474fbad4634b64787657ff6456.msvdn.net/ert1/ert_ev1_main/mainabr/ert_ev1_main/main_1080/chunks_dvr.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ERT2.gr" tvg-logo="https://i.imgur.com/o4BUdoL.png",ERT2 HD
+http://cbd537474fbad4634b64787657ff6456.msvdn.net/ert2/ert_ev2_main/mainabr/ert_ev2_main/main_1080/chunks_dvr.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ERT3.gr" tvg-logo="https://i.imgur.com/rv4JLBO.png",ERT3 HD
+http://cbd537474fbad4634b64787657ff6456.msvdn.net/ert3/ert_ev3_main/mainabr/ert_ev3_main/main_1080/chunks_dvr.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="StarChannel.gr" tvg-logo="https://i.imgur.com/zGpwulO.png",STAR HD 
+http://livestar.siliconweb.com/media/star1/star1.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ANT1.gr" tvg-logo="https://i.imgur.com/lc0mZ4i.jpg",ANT1 EUROPE
+http://95.107.132.106/out/u/atsykmssuyrsyhth.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="MEGATV.gr" tvg-logo="https://i.imgur.com/Dy4RR7G.png",MEGA HD
+https://streamcdnh14-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/chunklist_b3710976.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="AlphaTV.gr" tvg-logo="https://i.imgur.com/utv0rWj.png",ALPHA HD
+http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/cz2fpdj6/2728/chunklist.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="SkaiTV.gr" tvg-logo="https://i.imgur.com/BXmta4G.png",SKAI HD 
+http://skai-live-back.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="OpenBeyondTV.gr" tvg-logo="https://i.imgur.com/72GOh2Z.png",OPEN TV HD
+http://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="OneChannel.gr" tvg-logo="https://i.imgur.com/ts4qd1U.png",ONE TV 
+http://streaming.onetv.gr/show/onetv_hd720/index.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ERTWorld.gr" tvg-logo="https://i.imgur.com/rv4JLBO.png",ERT WORLD
+https://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/mainabr/ert_world_main/main_1080/chunks_dvr.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="KontraChannel.gr" tvg-logo="https://i.imgur.com/6woXJdd.png",KONTRA
+http://flashcloud.mediacdn.com/live/kontratv/.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="AlertTV.gr" tvg-logo="https://i.imgur.com/2kVsZlv.png",ALERT TV
+https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ERTNews.gr" tvg-logo="https://i.imgur.com/XwLTzaF.jpg",ERT NEWS
+https://cbd537474fbad4634b64787657ff6456.msvdn.net/news/ert_news_main/main_720/chunks_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LXPUgq8.jpg" group-title="GREEK Radios", Church of Piraeus 91.2
+https://impradio.bytemasters.gr/8002/stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z8waesr.png" group-title="GREEK Radios", Monaxiki Diakonia
+http://eco.onestreaming.com:8019/;stream.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YqQvXmu.png" group-title="GREEK Radios", PEMPTOUSIA FM
+https://stream.radiojar.com/48cz219puzzuv
+#EXTINF:-1 group-title="GREEK Radios", RADIO GOLD
+http://radiogold.live24.gr/radiogold
+#EXTINF:-1 group-title="GREEK Radios", ZEPPELIN 106.7
+https://radiostreaming.ert.gr/ert-zeppelin
+#EXTINF:-1 group-title="GREEK Radios", MINORE FM
+http://minorefm.live24.gr/minorefm
+#EXTINF:-1 group-title="GREEK Radios", METALZONE RADIO
+https://neos.win:48282/stream
+#EXTINF:-1 group-title="GREEK Radios", 89 Rainbow Christmas Radio
+http://stream.radiojar.com/4nwwcyesv8hvv
+#EXTINF:-1 group-title="GREEK Radios", 181.FM Haiband Radio
+http://listen.181fm.com/181-hairband_128k.mp3
